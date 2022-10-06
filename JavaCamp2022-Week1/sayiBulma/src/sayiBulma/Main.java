@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		int[] sayilar = new int[] { 1, 2, 5, 7, 9, 0 };
-		int aranacak = 23;
+		int aranacak = 2;
 		
 
 		for (int i = 1; i < sayilar.length; i++) {
